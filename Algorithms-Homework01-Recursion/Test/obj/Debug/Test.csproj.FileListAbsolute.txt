@@ -1,0 +1,11 @@
+D:\VSProjects\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.exe.config
+D:\VSProjects\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.exe
+D:\VSProjects\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.pdb
+D:\VSProjects\Algorithms-Homework01-Recursion\Test\obj\Debug\Test.exe
+D:\VSProjects\Algorithms-Homework01-Recursion\Test\obj\Debug\Test.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\obj\Debug\Test.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\obj\Debug\Test.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\bin\Debug\Test.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAresaInMatrix.Copied\bin\Debug\Problem06.ConnectedAresaInMatrix.Copied.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAresaInMatrix.Copied\bin\Debug\Problem06.ConnectedAresaInMatrix.Copied.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAresaInMatrix.Copied\bin\Debug\Problem06.ConnectedAresaInMatrix.Copied.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAresaInMatrix.Copied\obj\Debug\Problem06.ConnectedAresaInMatrix.Copied.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAresaInMatrix.Copied\obj\Debug\Problem06.ConnectedAresaInMatrix.Copied.pdb

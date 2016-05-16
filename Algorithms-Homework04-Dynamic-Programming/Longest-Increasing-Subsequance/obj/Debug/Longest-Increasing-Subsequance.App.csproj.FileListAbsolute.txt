@@ -1,0 +1,9 @@
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\Longest-Increasing-Subsequance.exe.config
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\LongestIncreasingSubsequance.App.exe.config
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\Longest-Increasing-Subsequance.App.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\Longest-Increasing-Subsequance.App.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\Longest-Increasing-Subsequance.App.exe
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\bin\Debug\Longest-Increasing-Subsequance.App.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\obj\Debug\Longest-Increasing-Subsequance.App.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\obj\Debug\Longest-Increasing-Subsequance.App.exe
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Longest-Increasing-Subsequance\obj\Debug\Longest-Increasing-Subsequance.App.pdb

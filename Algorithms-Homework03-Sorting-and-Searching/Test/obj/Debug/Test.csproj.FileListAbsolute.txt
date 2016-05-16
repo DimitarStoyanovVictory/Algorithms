@@ -1,0 +1,6 @@
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\bin\Debug\Test.exe.config
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\bin\Debug\Test.exe
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\bin\Debug\Test.pdb
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\obj\Debug\Test.exe
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\obj\Debug\Test.pdb
+D:\SoftUni Materials\BackEndLevel\Algorithms\3. Sorting-and-Searching-Algorithms\3. Sorting-and-Searching-Algorithms-Lab-Skeleton\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache

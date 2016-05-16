@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\bin\Debug\06.Snakes.Recursion.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\bin\Debug\06.Snakes.Recursion.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\bin\Debug\06.Snakes.Recursion.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\obj\Debug\06.Snakes.Recursion.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\obj\Debug\06.Snakes.Recursion.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes.Recursion\obj\Debug\06.Snakes.Recursion.pdb

@@ -1,0 +1,7 @@
+D:\VSProjects\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\bin\Debug\Problem01.TowerOfHanoiCopied!.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\bin\Debug\Problem01.TowerOfHanoiCopied!.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\bin\Debug\Problem01.TowerOfHanoiCopied!.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\bin\Debug\Problem01.TowerOfHanoiCopied!.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\obj\Debug\Problem01.TowerOfHanoiCopied!.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\obj\Debug\Problem01.TowerOfHanoiCopied!.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem01.TowerOfHanoiCopied!\obj\Debug\Problem01.TowerOfHanoiCopied!.pdb

@@ -1,0 +1,9 @@
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe.config
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\bin\Debug\Knapsack-Problem.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\obj\Debug\Knapsack-Problem.exe
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\obj\Debug\Knapsack-Problem.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\obj\Debug\Knapsack-Problem.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\bin\Debug\Knapsack-Problem.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\obj\Debug\Knapsack-Problem.exe
+D:\VSProjects\Algorithms\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem\obj\Debug\Knapsack-Problem.pdb

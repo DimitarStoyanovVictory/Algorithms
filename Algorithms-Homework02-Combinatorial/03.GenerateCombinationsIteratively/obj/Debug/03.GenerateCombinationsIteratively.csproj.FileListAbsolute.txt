@@ -1,0 +1,12 @@
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.exe.config
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\obj\Debug\03.GenerateCombinationsIteratively.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\03.GenerateCombinationsIteratively\bin\Debug\03.GenerateCombinationsIteratively.pdb

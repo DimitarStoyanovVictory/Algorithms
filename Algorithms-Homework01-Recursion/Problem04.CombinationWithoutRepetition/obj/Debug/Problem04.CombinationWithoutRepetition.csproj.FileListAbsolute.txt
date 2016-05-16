@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\bin\Debug\Problem04.CombinationWithoutRepetition.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\bin\Debug\Problem04.CombinationWithoutRepetition.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\bin\Debug\Problem04.CombinationWithoutRepetition.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\obj\Debug\Problem04.CombinationWithoutRepetition.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\obj\Debug\Problem04.CombinationWithoutRepetition.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem04.CombinationWithoutRepetition\obj\Debug\Problem04.CombinationWithoutRepetition.pdb

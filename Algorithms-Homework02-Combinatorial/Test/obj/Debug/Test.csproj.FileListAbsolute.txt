@@ -1,0 +1,12 @@
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\bin\Debug\Test.exe.config
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\bin\Debug\Test.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\bin\Debug\Test.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\obj\Debug\Test.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\Test\obj\Debug\Test.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\bin\Debug\Test.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\bin\Debug\Test.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\bin\Debug\Test.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\obj\Debug\Test.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\Test\obj\Debug\Test.pdb

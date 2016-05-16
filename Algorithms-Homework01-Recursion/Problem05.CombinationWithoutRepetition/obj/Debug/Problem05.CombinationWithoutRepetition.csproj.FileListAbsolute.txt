@@ -1,0 +1,1 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.CombinationWithoutRepetition\bin\Debug\Problem05.CombinationWithoutRepetition.exe.config

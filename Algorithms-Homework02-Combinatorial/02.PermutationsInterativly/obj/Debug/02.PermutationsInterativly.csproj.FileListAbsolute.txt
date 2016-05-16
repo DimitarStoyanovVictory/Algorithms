@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\bin\Debug\02.PermutationsInterativly.exe.config
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\bin\Debug\02.PermutationsInterativly.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\bin\Debug\02.PermutationsInterativly.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\obj\Debug\02.PermutationsInterativly.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\obj\Debug\02.PermutationsInterativly.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.PermutationsInterativly\obj\Debug\02.PermutationsInterativly.csprojResolveAssemblyReference.cache

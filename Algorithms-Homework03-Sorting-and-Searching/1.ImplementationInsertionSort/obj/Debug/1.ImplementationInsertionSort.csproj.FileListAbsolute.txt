@@ -1,0 +1,2 @@
+D:\VSProjects\Algorithms-Homework03-Sorting-and-Searching\1.ImplementationInsertionSort\bin\Debug\1.ImplementationInsertionSort.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\1.ImplementationInsertionSort\bin\Debug\1.ImplementationInsertionSort.exe.config

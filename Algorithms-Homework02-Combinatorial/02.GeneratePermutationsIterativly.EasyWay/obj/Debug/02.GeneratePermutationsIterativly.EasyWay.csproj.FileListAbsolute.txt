@@ -1,0 +1,12 @@
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.exe.config
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.exe
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.pdb
+D:\VSProjects\Algorithms-Homework02-Combinatorial-\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\bin\Debug\02.GeneratePermutationsIterativly.EasyWay.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\02.GeneratePermutationsIterativly.EasyWay\obj\Debug\02.GeneratePermutationsIterativly.EasyWay.csprojResolveAssemblyReference.cache

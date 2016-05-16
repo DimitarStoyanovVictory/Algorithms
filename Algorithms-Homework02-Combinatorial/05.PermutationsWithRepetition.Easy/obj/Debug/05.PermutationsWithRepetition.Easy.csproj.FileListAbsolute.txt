@@ -1,0 +1,5 @@
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\05.PermutationsWithRepetition.Easy\bin\Debug\05.PermutationsWithRepetition.Easy.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\05.PermutationsWithRepetition.Easy\bin\Debug\05.PermutationsWithRepetition.Easy.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\05.PermutationsWithRepetition.Easy\bin\Debug\05.PermutationsWithRepetition.Easy.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\05.PermutationsWithRepetition.Easy\obj\Debug\05.PermutationsWithRepetition.Easy.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\05.PermutationsWithRepetition.Easy\obj\Debug\05.PermutationsWithRepetition.Easy.pdb

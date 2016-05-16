@@ -1,0 +1,8 @@
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\bin\Debug\Longest-Common-Subsequance.Tests.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\bin\Debug\Longest-Common-Subsequance.Tests.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\bin\Debug\Longest-Common-Subsequance.exe
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\bin\Debug\Longest-Common-Subsequance.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\obj\Debug\Longest-Common-Subsequance.Tests.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\obj\Debug\Longest-Common-Subsequance.Tests.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Longest-Common-Subsequance.Tests\obj\Debug\Longest-Common-Subsequance.Tests.pdb

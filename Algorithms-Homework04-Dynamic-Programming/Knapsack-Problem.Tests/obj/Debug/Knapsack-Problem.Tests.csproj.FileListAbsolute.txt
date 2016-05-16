@@ -1,0 +1,8 @@
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.exe
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\obj\Debug\Knapsack-Problem.Tests.pdb
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.dll
+D:\VSProjects\Algorithms-Homework04-Dynamic-Programming\Knapsack-Problem.Tests\bin\Debug\Knapsack-Problem.Tests.pdb

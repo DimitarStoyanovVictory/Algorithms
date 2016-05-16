@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\bin\Debug\Problem08.Needles.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\obj\Debug\Problem08.Needles.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\bin\Debug\Problem08.Needles.exe
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\bin\Debug\Problem08.Needles.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\obj\Debug\Problem08.Needles.exe
+D:\VSProjects\Algorithms\Algorithms-Homework03-Sorting-and-Searching\Problem08.Needles\obj\Debug\Problem08.Needles.pdb

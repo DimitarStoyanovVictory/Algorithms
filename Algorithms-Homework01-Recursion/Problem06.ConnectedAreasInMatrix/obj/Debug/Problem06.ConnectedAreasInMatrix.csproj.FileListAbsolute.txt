@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\bin\Debug\Problem06.ConnectedAreasInMatrix.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\bin\Debug\Problem06.ConnectedAreasInMatrix.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\bin\Debug\Problem06.ConnectedAreasInMatrix.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\obj\Debug\Problem06.ConnectedAreasInMatrix.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\obj\Debug\Problem06.ConnectedAreasInMatrix.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem06.ConnectedAreasInMatrix\obj\Debug\Problem06.ConnectedAreasInMatrix.pdb

@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\bin\Debug\Problem05.PathsBetweenCellsInMatrix.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\obj\Debug\Problem05.PathsBetweenCellsInMatrix.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\bin\Debug\Problem05.PathsBetweenCellsInMatrix.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\bin\Debug\Problem05.PathsBetweenCellsInMatrix.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\obj\Debug\Problem05.PathsBetweenCellsInMatrix.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Problem05.PathsBetweenCellsInMatrix\obj\Debug\Problem05.PathsBetweenCellsInMatrix.pdb

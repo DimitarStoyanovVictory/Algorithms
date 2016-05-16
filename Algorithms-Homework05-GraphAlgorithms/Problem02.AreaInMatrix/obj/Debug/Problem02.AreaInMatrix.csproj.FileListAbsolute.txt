@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\bin\Debug\Problem02.AreaInMatrix.exe.config
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\bin\Debug\Problem02.AreaInMatrix.exe
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\bin\Debug\Problem02.AreaInMatrix.pdb
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\obj\Debug\Problem02.AreaInMatrix.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\obj\Debug\Problem02.AreaInMatrix.exe
+D:\VSProjects\Algorithms-Homework05-GraphAlgorithms\Problem02.AreaInMatrix\obj\Debug\Problem02.AreaInMatrix.pdb

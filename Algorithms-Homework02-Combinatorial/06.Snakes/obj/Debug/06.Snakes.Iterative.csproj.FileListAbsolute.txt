@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\bin\Debug\06.Snakes.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\obj\Debug\06.Snakes.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\obj\Debug\06.Snakes.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\bin\Debug\06.Snakes.exe
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\bin\Debug\06.Snakes.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework02-Combinatorial\06.Snakes\obj\Debug\06.Snakes.Iterative.csprojResolveAssemblyReference.cache

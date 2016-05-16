@@ -1,0 +1,6 @@
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\bin\Debug\Exercises-QeenPuzle.exe.config
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\bin\Debug\Exercises-QeenPuzle.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\bin\Debug\Exercises-QeenPuzle.pdb
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\obj\Debug\Exercises-QeenPuzle.csprojResolveAssemblyReference.cache
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\obj\Debug\Exercises-QeenPuzle.exe
+D:\VSProjects\Algorithms\Algorithms-Homework01-Recursion\Exercises-QeenPuzle\obj\Debug\Exercises-QeenPuzle.pdb
